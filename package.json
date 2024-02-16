@@ -1,8 +1,8 @@
 {
-  "name": "react-javascript",
+  "name": "sachmee",
   "version": "1.0.0",
   "type": "module",
-  "description": "React TypeScript on Replit, using Vite bundler",
+  "description": "Thư viện sách của SachMee, Vui lòng đọc kĩ trước khi sử dụng",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -19,5 +19,6 @@
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
-  }
+  },
+  "homepage": "https://mckhoahong.github.io/sachmee/"
 }
